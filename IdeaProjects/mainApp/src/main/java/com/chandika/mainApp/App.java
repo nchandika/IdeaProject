@@ -10,7 +10,7 @@ import java.io.PrintStream;
 public class App {
 
     public static void main(String[] args){
-        System.out.println("Hello from mainApp test 2");
+        System.out.println("Hello from mainApp test 21");
         System.out.println(Module.getText());
     }
 }
